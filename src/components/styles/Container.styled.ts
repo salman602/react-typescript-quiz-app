@@ -39,7 +39,7 @@ export const Wrapper = styled.div`
     background-color: linear-gradient(to right, magenta, violet);
   }
 
-  p {
+  .score {
     font-size: 2.3rem;
   }
 `;
